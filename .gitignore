@@ -1,0 +1,4 @@
+# Ignore all development files, guides, and source code
+*
+!README.md
+!.gitignore
